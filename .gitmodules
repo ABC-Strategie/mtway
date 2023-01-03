@@ -1,0 +1,4 @@
+[submodule "ABC-Strategie-GitHub/abc_x_mtway"]
+	path = ABC-Strategie-GitHub/abc_x_mtway
+	url = git@github.com:ABC-Strategie-GitHub/abc_x_mtway.git
+	branch = main
